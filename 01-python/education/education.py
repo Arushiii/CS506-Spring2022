@@ -1,5 +1,5 @@
-from .library import draw_library
-from .school import draw_school
+from library import *
+from school import *
 
 def draw_education():
     draw_library()
